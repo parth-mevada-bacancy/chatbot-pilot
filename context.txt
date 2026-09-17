@@ -1,0 +1,40 @@
+Wavelength Music — Product & Support FAQ
+
+Subscription Plans:
+Wavelength offers four tiers: Free (ad-supported, shuffle-only on mobile), Student
+($4.99/month, requires yearly re-verification), Premium ($9.99/month, ad-free with
+unlimited skips), and Family ($14.99/month, up to 6 linked accounts with individual
+listening profiles). Annual billing on Premium or Family gets a 15% discount over
+monthly billing.
+
+Cancellation Policy:
+Subscribers can cancel anytime from Account Settings. Cancellation takes effect at the
+end of the current billing cycle, with no prorated refund for unused days. Once
+cancelled, the account reverts to Free at the next renewal date, and offline downloads
+plus uploaded personal tracks stop syncing immediately, though playlists and library
+history are preserved for 12 months in case of resubscription.
+
+Audio Quality:
+Free-tier streams are capped at 128kbps AAC. Premium and Student streams go up to
+320kbps AAC. Family plan members each get up to 320kbps independently on their own
+linked account. A Hi-Fi add-on ($4.99/month, requires Premium or Family) unlocks
+lossless FLAC streaming up to 16-bit/44.1kHz.
+
+Account Sharing:
+Family plan accounts support up to 6 separate logins, each requiring the same
+registered household address, re-verified twice yearly via app location or IP check.
+Premium and Student accounts are single-user only; sharing login credentials violates
+the Terms of Service and may result in suspension. Each linked Family member keeps a
+private listening history unless they opt in to the shared "Family Mix" playlist.
+
+Offline Download Policy:
+Premium, Family, and Student subscribers can download up to 10,000 songs for offline
+listening, synced across a maximum of 5 devices. Downloaded tracks require the app to
+verify the subscription online at least once every 30 days, or offline playback is
+disabled until the next successful sync. Free-tier users cannot download tracks.
+
+Upload Policy:
+Premium and Family subscribers may upload their own personal music files to blend with
+their library, up to 25,000 tracks per account. Supported formats are MP3, M4A, and
+FLAC, with a 250MB limit per file. Uploaded tracks sync across devices like any other
+library item but do not count against the offline download limit.
